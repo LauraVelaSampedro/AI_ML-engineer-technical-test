@@ -10,5 +10,5 @@ The task in this project is to use Transfer learning for text classification. Sp
 
 The dataset used PUBHEALTH-Healt_fact is provided also by Hugghingface (https://huggingface.co/datasets/health_fact) and contains 12288 health related claims from various sources. Each claim has been labelled as 'true', 'false', 'mixture' or 'unproven' by professional fact checkers and health experts. The PUBHEALTH dataset contains the fields: 'claim_id', 'claim', 'date_published', 'explanation', 'fact_checkers', 'main_text', 'sources', 'label' and 'subjects'.
 
-The resolution of the task has been developed in Google Colab. The file *Final_AI_infrastructure_and_ML_engineer_technical_test_LauraVelaSampedro.ipynb* contains both the coe and the execution results.
+The resolution of the task has been developed in Google Colab. The file *Final_AI_infrastructure_and_ML_engineer_technical_test_LauraVelaSampedro.ipynb* contains both the code and the execution results.
 
