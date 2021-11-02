@@ -1,7 +1,7 @@
 # AI infrastructure and ML engineer technical test
 
 Description: Using one of the pretrained transformers available in huggingface, build a model
-to learn how to classify healthcare claims, weeding the facts from the myths). Demonstrate the
+to learn how to classify healthcare claims, weeding the facts from the myths. Demonstrate the
 performance of the final model.
 
 ## General Information
